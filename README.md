@@ -2,7 +2,7 @@
 
 # MdgWa
 
-An Xposed module to customize your WhatsApp.
+An Xposed module to customize your WhatsApp
 
 ## Characteristics
 
